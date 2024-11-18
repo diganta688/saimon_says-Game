@@ -1,0 +1,87 @@
+.main{
+    width: 30rem;
+    border: 4px solid black;
+    border-radius: 1rem;
+    display: inline-block;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    align-items: center;
+}
+
+.cf-h1{
+    font-size: 30px;
+    padding: 0 35px 0 35px;
+}
+
+.cf-h1 h1{
+    margin-bottom: 0;
+}
+
+.cf-h4{
+    font-size: 30px;
+}
+
+.cf-h4 h4{
+    margin-top: 1rem;
+}
+
+.game{
+    width: 30rem;
+    height: 20rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.f-game{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.l-game{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.green{
+    background-color: green;
+    height: 8rem;
+    width: 8rem;
+    border: 5px solid black;
+    border-radius: 1rem;
+    transition: all 0.1s ease-in 0s;
+}
+
+.red{
+    background-color: red;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+#inn-h1{
+    display: inline;
+    position: relative;
+    top: 85px;
+    left: 40%;
+}
+
+.blink{
+    background-color: #fff;
+}
+
+.body{
+    background-color: red;
+}
+
+
+
+
